@@ -38,12 +38,15 @@ Si no se encuentra un número adecuado, se reemplaza con 'X'.
 
 # ESTRUCTURA DEL PROYECTO
 
-### ```index.html:``` Archivo HTML que proporciona la interfaz para ingresar datos y mostrar resultados.
+### ```index.html:``` 
+Archivo HTML que proporciona la interfaz para ingresar datos y mostrar resultados.
 
-### ```script.js:``` Archivo JavaScript que contiene la lógica del algoritmo.
+### ```script.js:``` 
+Archivo JavaScript que contiene la lógica del algoritmo.
 
-Para ejecutar el proyecto simplemente abre el archivo
-### ```index.html``` en tu navegador de preferencia.
+### ```index.html```
+Para ejecutar el proyecto simplemente abre el archivo en tu navegador de preferencia.
+
 
 
 El proyecto estará alojado en GitHub para su consulta a través del siguiente [Link](https://github.com/DiegoFMendezV/PruebaAlgoritmia)
